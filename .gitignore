@@ -19,3 +19,8 @@ hs_err_pid*
 /chapter00/dao/out/
 .classpath
 .project
+
+# eclipse gradle project files
+**/build
+**/bin
+**/.setting*
